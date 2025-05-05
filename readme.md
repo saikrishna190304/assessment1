@@ -18,4 +18,5 @@ To practice fundamental commands and understand the workflow<br>
 -used 'git diff' to inspect the changes between commits.
 # Assingment 2 collab Test
 This change is made directly from Github.
-
+# feature branch created in second assignment <br>
+![Pull request merge](screenshot1.png)
