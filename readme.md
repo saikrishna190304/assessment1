@@ -18,4 +18,6 @@ To practice fundamental commands and understand the workflow<br>
 -used 'git diff' to inspect the changes between commits.
 # Assingment 2 collab Test
 This change is made directly from Github.
+# Test
+this is the line added from new feature branch.
 
