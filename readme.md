@@ -16,3 +16,5 @@ To practice fundamental commands and understand the workflow<br>
 -used gitlog to view the commit history of a repository.<br>
 ## git diff usage
 -used 'git diff' to inspect the changes between commits.
+# Assingment 2 collaboration Test
+This change is made directly from Github.
